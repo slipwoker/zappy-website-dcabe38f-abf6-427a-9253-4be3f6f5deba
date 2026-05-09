@@ -2,13 +2,13 @@
 
 Michael Handyman is a friendly, professional home and office maintenance service run by Michael, a solo handyman with a warm, approachable personality. The brand blends trustworthiness with a light-hearted tone ('I'm here to close the corner for you' — an Israeli idiom for 'I've got you covered'). The business emphasizes quality, fairness in pricing, and a smile, with a referral-based promotion (friend brings a friend = 20% discount for both). The site features a tips section positioning Michael as a knowledgeable expert, and a photo gallery showcasing real work.
 
-Source: https://-dcabe38f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## plumbing (leak repairs — מיכאל הנדימן
 
-URL: https://-dcabe38f.zappy5.app
+URL: https://example.com
 Description: תיקוני אינסטלציה, נזילות מים ותחזוקת בית בידיים אמינות. מיכאל הנדימן מגיע אליך עם חיוך, מחיר הוגן ועבודה מקצועית. חבר מביא חבר — 20% הנחה לשניכם!
 
 plumbing (leak repairs — מיכאל הנדימן
@@ -464,7 +464,7 @@ IKEA, שידות, ארונות, מיטות ועוד — הרכבה מקצועי�
 
 ## כל תיקון בית במקום אחד — מיכאל הנדימן
 
-URL: https://-dcabe38f.zappy5.app/services
+URL: https://example.com/services
 Description: מנזילת מים דחופה ועד שיפוצים קטנים — מיכאל הנדימן מציע שירותי תחזוקה ותיקון לבית ולמשרד. שירות אישי, מהיר והוגן. בדוק את כל השירותים שלנו עכשיו!
 
 כל תיקון בית במקום אחד — מיכאל הנדימן
@@ -930,7 +930,7 @@ Description: מנזילת מים דחופה ועד שיפוצים קטנים —
 
 ## טיפים חכמים לבעל בית נבון — מיכאל הנדימן
 
-URL: https://-dcabe38f.zappy5.app/tips
+URL: https://example.com/tips
 Description: גלה טיפים מקצועיים לתחזוקת הבית, מניעת נזילות מים וחיסכון בתיקונים יקרים. מיכאל הנדימן משתף את הידע שלו כדי שהבית שלך יישאר במצב מושלם לאורך זמן.
 
 טיפים חכמים לבעל בית נבון — מיכאל הנדימן
@@ -1438,7 +1438,7 @@ Description: גלה טיפים מקצועיים לתחזוקת הבית, מני�
 
 ## קבע עכשיו ומיכאל כבר בדרך — מיכאל הנדימן
 
-URL: https://-dcabe38f.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש נזילה? משהו התקלקל? צור קשר עם מיכאל הנדימן עוד היום לתיקון מהיר ומקצועי בבית או במשרד. שירות אישי, תגובה מהירה ומחיר שתוכל לחייך אליו. מחכים לשמוע ממך!
 
 קבע עכשיו ומיכאל כבר בדרך — מיכאל הנדימן
@@ -1789,7 +1789,7 @@ Description: יש נזילה? משהו התקלקל? צור קשר עם מיכא
 
 ## מדיניות פרטיות
 
-URL: https://-dcabe38f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1986,7 +1986,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-dcabe38f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2192,7 +2192,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-dcabe38f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

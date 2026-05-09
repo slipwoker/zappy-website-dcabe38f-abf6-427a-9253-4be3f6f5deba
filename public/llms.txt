@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-dcabe38f.zappy5.app
+https://example.com
 תיקוני אינסטלציה, נזילות מים ותחזוקת בית בידיים אמינות. מיכאל הנדימן מגיע אליך עם חיוך, מחיר הוגן ועבודה מקצועית. חבר מביא חבר — 20% הנחה לשניכם!
 
 ### שירותים
-https://-dcabe38f.zappy5.app/services
+https://example.com/services
 מנזילת מים דחופה ועד שיפוצים קטנים — מיכאל הנדימן מציע שירותי תחזוקה ותיקון לבית ולמשרד. שירות אישי, מהיר והוגן. בדוק את כל השירותים שלנו עכשיו!
 
 ### טיפים
-https://-dcabe38f.zappy5.app/tips
+https://example.com/tips
 גלה טיפים מקצועיים לתחזוקת הבית, מניעת נזילות מים וחיסכון בתיקונים יקרים. מיכאל הנדימן משתף את הידע שלו כדי שהבית שלך יישאר במצב מושלם לאורך זמן.
 
 ### צור קשר
-https://-dcabe38f.zappy5.app/contact
+https://example.com/contact
 יש נזילה? משהו התקלקל? צור קשר עם מיכאל הנדימן עוד היום לתיקון מהיר ומקצועי בבית או במשרד. שירות אישי, תגובה מהירה ומחיר שתוכל לחייך אליו. מחכים לשמוע ממך!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-dcabe38f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-dcabe38f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-dcabe38f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-dcabe38f.zappy5.app/contact
-- Endpoint: https://-dcabe38f.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Home Services / Maintenance & Repair
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-dcabe38f.zappy5.app/sitemap.xml
-- Robots: https://-dcabe38f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-dcabe38f.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
