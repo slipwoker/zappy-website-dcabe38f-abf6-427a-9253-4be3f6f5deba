@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: michaelfixman360@gmail.com
+- Phone: 0545903103
+- Phone (tel): tel:0545903103
+- Address: הנרקסים, 27, קרית ביאליק, חיפה, 2721622, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
