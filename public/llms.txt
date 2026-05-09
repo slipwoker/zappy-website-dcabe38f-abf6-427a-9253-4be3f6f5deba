@@ -43,7 +43,7 @@ Information about WCAG compliance and accessibility features.
 - Email: michaelfixman360@gmail.com
 - Phone: 0545903103
 - Phone (tel): tel:0545903103
-- Address: הנרקסים, 27, קרית ביאליק, חיפה, 2721622, ישראל
+- Address: הנרקסים, 27, קרית ביאליק, קריות, 2721622, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
