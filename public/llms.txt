@@ -1,0 +1,79 @@
+# מיכאל הנדימן — Generative Engine Optimization Map
+
+> Michael Handyman is a friendly, professional home and office maintenance service run by Michael, a solo handyman with a warm, approachable personality. The brand blends trustworthiness with a light-hearted tone ('I'm here to close the corner for you' — an Israeli idiom for 'I've got you covered'). The business emphasizes quality, fairness in pricing, and a smile, with a referral-based promotion (friend brings a friend = 20% discount for both). The site features a tips section positioning Michael as a knowledgeable expert, and a photo gallery showcasing real work.
+
+---
+
+## Pages
+
+### בית
+https://-dcabe38f.zappy5.app
+תיקוני אינסטלציה, נזילות מים ותחזוקת בית בידיים אמינות. מיכאל הנדימן מגיע אליך עם חיוך, מחיר הוגן ועבודה מקצועית. חבר מביא חבר — 20% הנחה לשניכם!
+
+### שירותים
+https://-dcabe38f.zappy5.app/services
+מנזילת מים דחופה ועד שיפוצים קטנים — מיכאל הנדימן מציע שירותי תחזוקה ותיקון לבית ולמשרד. שירות אישי, מהיר והוגן. בדוק את כל השירותים שלנו עכשיו!
+
+### טיפים
+https://-dcabe38f.zappy5.app/tips
+גלה טיפים מקצועיים לתחזוקת הבית, מניעת נזילות מים וחיסכון בתיקונים יקרים. מיכאל הנדימן משתף את הידע שלו כדי שהבית שלך יישאר במצב מושלם לאורך זמן.
+
+### צור קשר
+https://-dcabe38f.zappy5.app/contact
+יש נזילה? משהו התקלקל? צור קשר עם מיכאל הנדימן עוד היום לתיקון מהיר ומקצועי בבית או במשרד. שירות אישי, תגובה מהירה ומחיר שתוכל לחייך אליו. מחכים לשמוע ממך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dcabe38f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dcabe38f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dcabe38f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-dcabe38f.zappy5.app/contact
+- Endpoint: https://-dcabe38f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מיכאל הנדימן
+Michael Handyman is a friendly, professional home and office maintenance service run by Michael, a solo handyman with a warm, approachable personality. The brand blends trustworthiness with a light-hearted tone ('I'm here to close the corner for you' — an Israeli idiom for 'I've got you covered'). The business emphasizes quality, fairness in pricing, and a smile, with a referral-based promotion (friend brings a friend = 20% discount for both). The site features a tips section positioning Michael as a knowledgeable expert, and a photo gallery showcasing real work.
+
+## Target Audience
+- homeowners and office managers needing repairs and maintenance
+- בעלי בתים הזקוקים לתיקונים
+- מנהלי משרדים לתחזוקה
+- בעלי בתים חדשים
+
+## Industry
+Home Services / Maintenance & Repair
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-dcabe38f.zappy5.app/sitemap.xml
+- Robots: https://-dcabe38f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-dcabe38f.zappy5.app/llms-full.txt
